@@ -1,0 +1,10 @@
+.venv/
+.chrome-profile/
+.webdriver-profile/
+.chrome-driver-profile/
+.chrome-driver-headed/
+.probe-profile/
+__pycache__/
+*.pyc
+last_result.txt
+BD/state.json
